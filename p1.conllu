@@ -1,0 +1,15 @@
+# sent_id = p1__1
+# text = ఆ తరువాత ప్రపంచ సీరీస్ క్రికెట్‌లో ప్రవేశించి అక్కడ ప్రధాన పాత్ర వహించాడు .
+# text_en = Ā taruvāta prapan̄ca sīrīs krikeṭ‌lō pravēśin̄ci akkaḍa pradhāna pātra vahin̄cāḍu .
+1	ఆ	ఆ	DET	_	PronType=Dem	2	det	_	Gloss=that
+2	తరువాత	తరువాత	ADP	_	_	6	advmod	_	Gloss=after
+3	ప్రపంచ	ప్రపంచ	ADJ	_	_	4	flat	_	Gloss=world
+4	సీరీస్	సీరీస్	ADJ	_	_	5	amod	_	Gloss=series
+5	క్రికెట్‌లో	క్రికెట్‌	NOUN	_	Case=Loc	6	obl	_	Gloss=cricket
+6	ప్రవేశించి	ప్రవేశించు	VERB	_	VerbForm=Part	10	advcl	_	Gloss=having.entered
+7	అక్కడ	అక్కడ	ADP	_	Case=Loc|PronType=Dem	10	advmod	_	Gloss=there
+8	ప్రధాన	ప్రధాన	ADJ	_	_	9	amod	_	Gloss=significant
+9	పాత్ర	పాత్ర	NOUN	_	_	10	obj	_	Gloss=position
+10	వహించాడు	వహించు	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=took
+11	.	_	PUNCT	_	_	10	punct	_	_
+
