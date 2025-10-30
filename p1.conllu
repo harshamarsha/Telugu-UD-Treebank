@@ -13,3 +13,15 @@
 10	వహించాడు	వహించు	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=took
 11	.	_	PUNCT	_	_	10	punct	_	_
 
+# sent_id = p1__2
+# text = విశ్వా గారు మీరు అప్లోడ్ చేసిన బొమ్మ చూసాను .
+# text_en = Viśvā gāru mīru aplōḍ cēsina bom'ma cūsānu.
+1	విశ్వా	విశ్వా	PROPN	_	Case=Voc	_	_	_	Gloss=Vishva
+2	గారు	గారు	PART	_	Polite=Form	_	_	_	Gloss=HONORIFIC
+3	మీరు	నువ్వు	PRON	_	Number=Sing|Person=2	_	_	_	Gloss=you
+4	అప్లోడ్	అప్లోడ్	VERB	_	_	_	_	_	Gloss=upload
+5	చేసిన	చేయు	ADJ	_	VerbForm=Part|Voice=Pass	_	_	_	_
+6	బొమ్మ	బొమ్మ	NOUN	_	_	_	_	_	Gloss=picture
+7	చూసాను	చూడు	VERB	_	Aspect=Perf|Person=1|VerbForm=Fin	_	_	_	Gloss=saw
+8	.	_	PUNCT	_	_	_	_	_	_
+
